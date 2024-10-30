@@ -1,0 +1,41 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>
+<body bgcolor="light blue sky">
+<br>
+</br>
+<form>
+<\label>
+<input type:name="first name"=size</5>
+<br></br>
+<lable>
+<input type=name="middle name"size=<\5>
+<lable>
+<input type=name"last name"size</5><br><br>
+corse:
+<input type="option"value="BBA"size=</5>
+<input type="b.tech"value="b.tech"size=</5>
+<input type="mca"value="mca"size=</5>
+<input type="m.tech"value="m.tech"size=</5>
+<br>
+gender:
+<input type="radio "name="male" size="10"/<br>
+<input type="radio" name ="female"size=10"\<br>
+<br>
+<input type="radio"name="others"size="10"\<br>
+<br>
+phone:
+<lable>
+<input type="country code="+91" size="2"<br>
+<input type=mame="phone" value="10" size<br>
+address:
+input type=nmae:email"id=email>
+<br>
+password:
+<input type=name="repassword" id=repass"value=repass"<br>
+<input tuype="button"namme:"submit"<br></br>
+</body>
+</title>
+<head>
+</html>
